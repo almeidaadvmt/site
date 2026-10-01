@@ -1,7 +1,7 @@
 /* Almeida Advocacia — site institucional
    Configurações fáceis de alterar ficam aqui em cima. */
 const CONFIG = {
-  whatsapp: "5565992546217", // DDI + DDD + número, só dígitos
+  whatsapp: "5565992871518", // DDI + DDD + número, só dígitos
   whatsappMensagem: "Olá! Vim pelo site da Almeida Advocacia e gostaria de atendimento.",
   // Link da página de agendamento (ex.: Google Agenda > Programação de horários).
   // Enquanto estiver vazio, os botões de agenda abrem o WhatsApp com pedido de agendamento.
